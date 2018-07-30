@@ -3,10 +3,10 @@ import json
 
 if __name__ == "__main__":
     photo='testme.jpg'
-    bucket='vbimagerekog'
+    bucket=''
     client = boto3.client('rekognition',
-    aws_access_key_id= "AKIAIXHNM6BOZCIS3AUA",
-    aws_secret_access_key= "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",
+    aws_access_key_id= "",
+    aws_secret_access_key= "",
     region_name="us-east-1"
     )
 
