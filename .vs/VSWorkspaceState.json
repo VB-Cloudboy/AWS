@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\aws_rekognition",
     "\\aws_sms"
   ],
-  "SelectedNode": "\\aws_rekognition\\image_detection.py",
+  "SelectedNode": "\\aws_sms",
   "PreviewInSolutionExplorer": false
 }
