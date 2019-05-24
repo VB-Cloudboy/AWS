@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\aws_rekognition",
-    "\\aws_sms"
+    "\\aws_s3"
   ],
-  "SelectedNode": "\\aws_rekognition\\image_detection.py",
+  "SelectedNode": "\\aws_s3\\s3_list&create.py",
   "PreviewInSolutionExplorer": false
 }
