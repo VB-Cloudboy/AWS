@@ -3,6 +3,6 @@
     "",
     "\\aws_s3"
   ],
-  "SelectedNode": "\\aws_s3\\s3_list&create.py",
+  "SelectedNode": "\\aws_s3\\s3_mssqlbackup2bucket.py",
   "PreviewInSolutionExplorer": false
 }
